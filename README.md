@@ -92,7 +92,9 @@ void checkAlert(int d) {
     digitalWrite(ledPinG, HIGH);
   }
 }
-#java-in-processingApp
+//#java-in-processingApp
+
+
 import processing.serial.*;
 
 Serial myPort;
